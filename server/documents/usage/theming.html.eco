@@ -405,7 +405,7 @@ type        : 'Usage'
   </div>
 
   <div class="no example">
-    <h4 class="ui header">Packaged Theme</h4>
+    <h4 class="ui header">主题包</h4>
     <div class="ui breadcrumb">
       <div class="section">
         <i class="disabled folder icon"></i>
@@ -419,7 +419,7 @@ type        : 'Usage'
       <i class="right chevron icon divider"></i>
       <div class="active section">
         <i class="inverted circular teal folder icon"></i>
-        theme-name
+        主题名称
       </div>
     </div>
     <p>Packaged themes are themes bundled together in a folder for distribution. These can be downloaded from the internet, or carried between projects.</p>
@@ -427,7 +427,7 @@ type        : 'Usage'
   </div>
 
   <div class="no example">
-    <h4 class="ui header">Site Theme</h4>
+    <h4 class="ui header">网站主题</h4>
     <div class="ui breadcrumb">
       <div class="section">
         <i class="disabled folder icon"></i>
